@@ -1,0 +1,4 @@
+twitchio
+matplotlib
+collections
+asyncio
